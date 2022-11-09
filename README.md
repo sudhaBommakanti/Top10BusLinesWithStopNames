@@ -1,8 +1,8 @@
 # TopTenBusLines
 
-# TOP210BusLinesWithTotalStops Web Application
+# TOPTenBusLinesWithTotalStops Web Application
 
-This is a simple web application that displays top 10 bus lines with stop area names on their route in a nice and formatted way in a web browser.
+This is a simple web application that displays top 10 bus lines with stop area names on their route in a formatted way in a web browser.
 
 As an user, you can see the top 10 bus lines along with total stops on the web page.
 
@@ -34,5 +34,6 @@ This application was built by:
 # Express server
 
 
-License
+# License
+
 Open Source Project.
