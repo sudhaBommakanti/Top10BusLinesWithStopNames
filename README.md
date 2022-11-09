@@ -11,15 +11,26 @@ You can click on any card on the page to see the bus stop area names of a bus li
 Github:
 [(https://github.com/sudhaBommakanti/Top10BusLinesWithStopNames)]
 
+Available Scripts
+In the project directory, you can run:
 
-Tech:
+node server.js
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+Technologies:
 This application was built by:
 
+
+Visual Studio Code
+npm and node
 HTML
 CSS
 Bootstrap
 Javascript
-NPM
 Node.js Express server
 
 Heroku App used to deploy the web application.
