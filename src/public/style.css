@@ -66,9 +66,21 @@ h1 {
   color:white;
 }
 
+.card-header button:hover {
+  color: #f8f8f8;
+  text-decoration: none;
+}
+
+
 .card-body {
   padding: 0;
   color:white;
+}
+
+/* remove underline and color change from links */
+a {
+  text-decoration: none;
+  color: white;
 }
 
 /* div collapsibleArea to be responsive on max width 768px */
